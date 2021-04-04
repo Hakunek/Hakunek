@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hakunek
 - 👀 I’m generaly interested in IT stuff, not only programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning: Python, Lua, AHK
 - 📫 How to reach me:
       Discord - Waves#0990<hr>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hakunek&show_icons=true&theme=dark)
