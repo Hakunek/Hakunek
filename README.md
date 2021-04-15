@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Hakunek
 - 👀 I’m generaly interested in IT stuff, not only programming
 - 🌱 I’m currently learning: Python, Lua, AHK
-- 📫 How to reach me:
-      Discord - Waves#0990<hr>
+- 📫 How to reach me:<ul>
+      <li>Discord - Waves#0990</li>
+</ul><hr>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hakunek&show_icons=true&theme=dark)
 <!---
 Hakunek/Hakunek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
