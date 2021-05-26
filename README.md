@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hakunek
 - 👀 I’m generaly interested in IT stuff, not only programming
 - 💻 Languages I'm familiar with: JavaScript, PHP, HTML, CSS, C++
-- 🌱 I’m currently learning: Python, Lua, AHK
+- 🌱 I’m currently learning: Python,
 - 📫 How to reach me:<ul>
       <li>Discord - Waves#0990</li>
 </ul><hr>
